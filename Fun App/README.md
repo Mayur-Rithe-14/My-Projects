@@ -6,21 +6,21 @@ A simple and interactive web app that generates fun content like **cat facts, do
 
 ## Features
 
-- Get random **cat facts**
-- Fetch random **dog images**
-- Generate **jokes**
-- Get useful **advice**
-- Fast and responsive UI
-- Dynamic content using **Axios API calls**
+- Get random **cat facts**.
+- Fetch random **dog images**.
+- Generate **jokes**.
+- Get useful **advice**.
+- Fast and responsive UI.
+- Dynamic content using **Axios API calls**.
 
 ---
 
 ## Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6)**
-- **Axios (for API requests)**
+- **HTML5**.
+- **CSS3**.
+- **JavaScript (ES6)**.
+- **Axios (for API requests)**.
 
 ---
 
@@ -64,8 +64,8 @@ Fun-Generator-App/
 
 ## Error Handling
 
-- Displays user-friendly error messages if API fails
-- Uses `try...catch` for safe API calls
+- Displays user-friendly error messages if API fails.
+- Uses `try...catch` for safe API calls.
 
 ---
 
