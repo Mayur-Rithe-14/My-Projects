@@ -83,7 +83,7 @@ Right now, I’m focusing on:
 1. Clone the repository:
 
 ```bash id="j3l9as"
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Mayur-Rithe-14/My-Projects.git
 ```
 
 2. Open any project folder
@@ -102,7 +102,7 @@ This is a personal learning repo, but suggestions are always welcome!
 
 ## Connect With Me
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Mayur-Rithe-14
 
 ---
 

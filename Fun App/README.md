@@ -36,6 +36,24 @@ Fun-Generator-App/
 
 ---
 
+## How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/fun-generator-app.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd fun-generator-app
+```
+
+3. Run the project:
+
+- Open `index.html` in your browser
+
 ## Preview
 
 - Click buttons to generate different types of content.
