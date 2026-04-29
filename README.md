@@ -71,10 +71,10 @@ Right now, I’m focusing on:
 
 ## Future Plans
 
-- Add more advanced JavaScript projects
-- Build full-stack applications
+- Add more advanced JavaScript projects.
+- Build full-stack applications.
 - Learn React.js
-- Improve UI/UX design skills
+- Improve UI/UX design skills.
 
 ---
 
