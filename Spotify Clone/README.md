@@ -74,11 +74,11 @@ cd spotify-clone
 
 ## Future Improvements
 
-* Add JavaScript for real music functionality
-* Connect with Spotify API
-* Add animations and transitions
-* Improve mobile responsiveness
-* Add login/signup system
+* Add JavaScript for real music functionality.
+* Connect with Spotify API.
+* Add animations and transitions.
+* Improve mobile responsiveness.
+* Add login/signup system.
 
 ---
 
