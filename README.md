@@ -21,7 +21,7 @@ Each project is created to **learn real-world concepts** and improve my developm
 
 ---
 
-## Tech Stack
+## Technologies Used:
 
 - **HTML5** → Structure of web pages
 - **CSS3** → Styling, layouts, responsiveness
