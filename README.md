@@ -62,10 +62,10 @@ My-Projects/
 
 Right now, I’m focusing on:
 
-- Strong HTML & CSS fundamentals
-- JavaScript concepts (async/await, promises, DOM)
-- Git & GitHub workflow (branches, PRs, commits)
-- Building real-world projects
+- Strong HTML & CSS fundamentals.
+- JavaScript concepts (async/await, promises, DOM).
+- Git & GitHub workflow (branches, PRs, commits).
+- Building real-world projects.
 
 ---
 
