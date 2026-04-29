@@ -58,27 +58,27 @@ cd spotify-clone
 
 3. Run the project:
 
-* Open `index.html` in your browser
+* Open `index.html` in your browser.
 
 ---
 
 ## What I Learned
 
-* Flexbox layout design
-* Sticky navigation implementation
-* Custom range sliders (progress & volume)
-* Responsive UI basics
-* Structuring large UI projects
+* Flexbox layout design.
+* Sticky navigation implementation.
+* Custom range sliders (progress & volume).
+* Responsive UI basics.
+* Structuring large UI projects.
 
 ---
 
 ## Future Improvements
 
-* Add JavaScript for real music functionality
-* Connect with Spotify API
-* Add animations and transitions
-* Improve mobile responsiveness
-* Add login/signup system
+* Add JavaScript for real music functionality.
+* Connect with Spotify API.
+* Add animations and transitions.
+* Improve mobile responsiveness.
+* Add login/signup system.
 
 ---
 
@@ -97,7 +97,7 @@ All design inspiration belongs to Spotify.
 
 ## Connect With Me
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/Mayur-Rithe-14
 
 ---
 

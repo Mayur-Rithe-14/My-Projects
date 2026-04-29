@@ -6,21 +6,21 @@ A simple and interactive web app that generates fun content like **cat facts, do
 
 ## Features
 
-- Get random **cat facts**
-- Fetch random **dog images**
-- Generate **jokes**
-- Get useful **advice**
-- Fast and responsive UI
-- Dynamic content using **Axios API calls**
+- Get random **cat facts**.
+- Fetch random **dog images**.
+- Generate **jokes**.
+- Get useful **advice**.
+- Fast and responsive UI.
+- Dynamic content using **Axios API calls**.
 
 ---
 
 ## Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6)**
-- **Axios (for API requests)**
+- **HTML5**.
+- **CSS3**.
+- **JavaScript (ES6)**.
+- **Axios (for API requests)**.
 
 ---
 
@@ -36,11 +36,29 @@ Fun-Generator-App/
 
 ---
 
+## How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/fun-generator-app.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd fun-generator-app
+```
+
+3. Run the project:
+
+- Open `index.html` in your browser
+
 ## Preview
 
-- Click buttons to generate different types of content
-- Output text appears below
-- Dog images are displayed dynamically
+- Click buttons to generate different types of content.
+- Output text appears below.
+- Dog images are displayed dynamically.
 
 ---
 
@@ -55,17 +73,17 @@ Fun-Generator-App/
 
 ## How It Works
 
-- Each button triggers an **async function**
-- Axios fetches data from APIs
-- UI updates dynamically using DOM manipulation
-- `resetUI()` clears previous data before loading new content
+- Each button triggers an **async function**.
+- Axios fetches data from APIs.
+- UI updates dynamically using DOM manipulation.
+- `resetUI()` clears previous data before loading new content.
 
 ---
 
 ## Error Handling
 
-- Displays user-friendly error messages if API fails
-- Uses `try...catch` for safe API calls
+- Displays user-friendly error messages if API fails.
+- Uses `try...catch` for safe API calls.
 
 ---
 

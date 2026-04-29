@@ -21,7 +21,7 @@ Each project is created to **learn real-world concepts** and improve my developm
 
 ---
 
-## Tech Stack
+## Technologies Used:
 
 - **HTML5** → Structure of web pages
 - **CSS3** → Styling, layouts, responsiveness
@@ -62,19 +62,19 @@ My-Projects/
 
 Right now, I’m focusing on:
 
-- Strong HTML & CSS fundamentals
-- JavaScript concepts (async/await, promises, DOM)
-- Git & GitHub workflow (branches, PRs, commits)
-- Building real-world projects
+- Strong HTML & CSS fundamentals.
+- JavaScript concepts (async/await, promises, DOM).
+- Git & GitHub workflow (branches, PRs, commits).
+- Building real-world projects.
 
 ---
 
 ## Future Plans
 
-- Add more advanced JavaScript projects
-- Build full-stack applications
+- Add more advanced JavaScript projects.
+- Build full-stack applications.
 - Learn React.js
-- Improve UI/UX design skills
+- Improve UI/UX design skills.
 
 ---
 
@@ -83,7 +83,7 @@ Right now, I’m focusing on:
 1. Clone the repository:
 
 ```bash id="j3l9as"
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Mayur-Rithe-14/My-Projects.git
 ```
 
 2. Open any project folder
@@ -102,7 +102,7 @@ This is a personal learning repo, but suggestions are always welcome!
 
 ## Connect With Me
 
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Mayur-Rithe-14
 
 ---
 
