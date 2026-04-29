@@ -38,9 +38,9 @@ Fun-Generator-App/
 
 ## Preview
 
-- Click buttons to generate different types of content
-- Output text appears below
-- Dog images are displayed dynamically
+- Click buttons to generate different types of content.
+- Output text appears below.
+- Dog images are displayed dynamically.
 
 ---
 
