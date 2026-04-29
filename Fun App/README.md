@@ -55,10 +55,10 @@ Fun-Generator-App/
 
 ## How It Works
 
-- Each button triggers an **async function**
-- Axios fetches data from APIs
-- UI updates dynamically using DOM manipulation
-- `resetUI()` clears previous data before loading new content
+- Each button triggers an **async function**.
+- Axios fetches data from APIs.
+- UI updates dynamically using DOM manipulation.
+- `resetUI()` clears previous data before loading new content.
 
 ---
 
