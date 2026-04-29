@@ -58,17 +58,17 @@ cd spotify-clone
 
 3. Run the project:
 
-* Open `index.html` in your browser
+* Open `index.html` in your browser.
 
 ---
 
 ## What I Learned
 
-* Flexbox layout design
-* Sticky navigation implementation
-* Custom range sliders (progress & volume)
-* Responsive UI basics
-* Structuring large UI projects
+* Flexbox layout design.
+* Sticky navigation implementation.
+* Custom range sliders (progress & volume).
+* Responsive UI basics.
+* Structuring large UI projects.
 
 ---
 
